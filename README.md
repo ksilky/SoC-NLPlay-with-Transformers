@@ -1,5 +1,5 @@
 # SoC-NLPlay-with-Transformers
-## Checkpoint 1: Sentiment Classifier
+## Sentiment Classifier
 ### Data preprocessing
 1. Word Tokenization: splitting sentences into an array of words.
 2. Remove punctuations(‘.’, ‘,’, ‘/’, etc.)
