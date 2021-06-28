@@ -16,7 +16,7 @@ Number of train samples: 40000 <br />Number of test samples: 10000
 2. RNN
 3. LSTM
 4. GRU
-## Transformers
+## Transformers for Sentiment Analysis
 Fine-tuned the following for sentiment analysis using tranformers library from huggingFace:
 1. Bert
 2. RoBERTa
